@@ -1,0 +1,7 @@
+[
+    {"id": "item_1", "name": "Heavy Winter Parka", "category": "outerwear", "color": "black", "warmth": "high", "style": "casual"},
+    {"id": "item_2", "name": "Light Denim Jacket", "category": "outerwear", "color": "blue", "warmth": "low", "style": "casual"},
+    {"id": "item_3", "name": "Merino Wool Sweater", "category": "top", "color": "grey", "warmth": "medium", "style": "smart-casual"},
+    {"id": "item_4", "name": "Classic Chinos", "category": "bottom", "color": "khaki", "warmth": "low", "style": "smart-casual"},
+    {"id": "item_5", "name": "Thermal Leggings", "category": "bottom", "color": "black", "warmth": "high", "style": "activewear"}
+]
